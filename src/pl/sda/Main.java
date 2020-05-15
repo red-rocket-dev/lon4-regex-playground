@@ -3,10 +3,11 @@ package pl.sda;
 public class Main {
 
     public static void main(String[] args) {
-        //Pattern
+        //Pattern - na później
         //String.replaceAll
         //String.split
         //String.matches
+        //Pamiętać o escape characters!
 
         //1. Chcę zamienić wszystkie źle napisane wystąpienia słowa Jaaavaaaa na Java
         String javaReplace = "Hej, Javaaaa jest wspaniałaaaa. Naprawdę PoWiNieneś się Nauczyć Jaaaaaavaaaaa";
