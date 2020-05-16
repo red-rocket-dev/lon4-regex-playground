@@ -3,7 +3,7 @@ package pl.sda;
 public class Main {
 
     public static void main(String[] args) {
-        //Pattern - na później
+        //Pattern - na później, roznica miedzy matches, a find
         //String.replaceAll
         //String.split
         //String.matches
